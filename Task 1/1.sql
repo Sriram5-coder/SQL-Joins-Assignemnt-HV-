@@ -1,0 +1,1 @@
+Select FIRST_NAME AS WORKER_NAME from workertable;
